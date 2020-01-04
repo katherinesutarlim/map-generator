@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/map-generator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/map-generator/static/js/main.cfd1da62.chunk.js",
+    "main.js.map": "/map-generator/static/js/main.cfd1da62.chunk.js.map",
+    "runtime-main.js": "/map-generator/static/js/runtime-main.7aca7cf1.js",
+    "runtime-main.js.map": "/map-generator/static/js/runtime-main.7aca7cf1.js.map",
+    "static/js/2.f72eb410.chunk.js": "/map-generator/static/js/2.f72eb410.chunk.js",
+    "static/js/2.f72eb410.chunk.js.map": "/map-generator/static/js/2.f72eb410.chunk.js.map",
+    "index.html": "/map-generator/index.html",
+    "precache-manifest.14516a3eb9e63f49b014f9ddfdccf7e7.js": "/map-generator/precache-manifest.14516a3eb9e63f49b014f9ddfdccf7e7.js",
+    "service-worker.js": "/map-generator/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/map-generator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f72eb410.chunk.js.LICENSE": "/map-generator/static/js/2.f72eb410.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aca7cf1.js",
+    "static/js/2.f72eb410.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.cfd1da62.chunk.js"
+  ]
+}
